@@ -1,0 +1,6 @@
+
+B
+designPatterns.iml,3\4\345505a37188de7534f243ac1709227c34a7444e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
