@@ -5,8 +5,6 @@ import java.util.ArrayList;
 public class BookShelf implements Aggregate<Book>{
     private ArrayList<Book> books;
 
-
-
     public BookShelf() {
         books = new ArrayList<>();
     }
